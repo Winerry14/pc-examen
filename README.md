@@ -24,7 +24,7 @@ El proyecto quedó desplegado en **Netlify**, por lo que se puede probar online.
 - Netlify  
 
 * Cómo probar el proyecto en local
-1. Clonar el repositorio:  
+1. Clonar el repositorio y probarlo en Netlify:  
    ```bash
    git clone https://github.com/Winerry14/pc-examen
    Netlify https://app-examen.netlify.app
