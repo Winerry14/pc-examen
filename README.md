@@ -27,6 +27,7 @@ El proyecto quedó desplegado en **Netlify**, por lo que se puede probar online.
 1. Clonar el repositorio:  
    ```bash
    git clone https://github.com/Winerry14/pc-examen
+   Netlify https://app-examen.netlify.app
 
 2. Instalar dependencias
    ```bash
