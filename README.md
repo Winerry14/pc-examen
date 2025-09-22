@@ -23,14 +23,14 @@ El proyecto quedó desplegado en **Netlify**, por lo que se puede probar online.
 - Bootstrap  
 - Netlify  
 
- Cómo probar el proyecto en local
+* Cómo probar el proyecto en local
 1. Clonar el repositorio:  
    ```bash
    git clone https://github.com/Winerry14/pc-examen
 
 2. Instalar dependencias
-bash
-npm install
-
+   ```bash
+   npm install
 3. Ejecutar el servidor
-npm start
+   ```bash
+   npm start
